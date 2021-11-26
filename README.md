@@ -1,7 +1,8 @@
 ### Hello world  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Ofitserovlad's github stats](https://github-readme-stats.vercel.app/api?username=OFITSEROVLAD&show_icons=true&hide_border=true&theme=gruvbox)
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ofitserovlad/competition)
+![Ofitserovlad's github stats](https://github-readme-stats.vercel.app/api?username=OFITSEROVLAD&show_icons=true&hide_border=true&theme=dracula)
+
 
 <!--
 **OFITSEROVLAD/OFITSEROVLAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
