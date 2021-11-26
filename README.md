@@ -1,4 +1,4 @@
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/3655415/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ofitserovlad/competition)
 
 <!--
 **OFITSEROVLAD/OFITSEROVLAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
