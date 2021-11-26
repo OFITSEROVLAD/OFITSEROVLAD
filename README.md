@@ -1,4 +1,4 @@
-## Ofitserov Vladislav
+### Hello world  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![Ofitserovlad's github stats](https://github-readme-stats.vercel.app/api?username=OFITSEROVLAD&show_icons=true&hide_border=true)
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ofitserovlad/competition)
